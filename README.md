@@ -1,8 +1,9 @@
 # reactjs_router  
-install: create-recat-app
+install: create-react-app
           recat-router-dom
- components: Navbar.js
- pages: Home, About, Blog, contact
+ 
 
 deploy : https://rjs-route.web.app/
+components: Navbar.js
+ pages: Home, About, Blog, contact
 
